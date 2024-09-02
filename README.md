@@ -1,2 +1,3 @@
 # zyk
-first
+first;
+i love sea
